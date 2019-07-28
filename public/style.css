@@ -1,0 +1,9 @@
+div#all {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20%;
+    border: grey dotted;
+    width: fit-content;
+    font-size: -webkit-xxx-large;
+    font-family: monospace;
+}

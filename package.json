@@ -1,0 +1,28 @@
+{
+  "name": "express-template",
+  "version": "1.0.0",
+  "description": "express template",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Varshneyabhushan/express-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Varshneyabhushan/express-template/issues"
+  },
+  "homepage": "https://github.com/Varshneyabhushan/express-template#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  },
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
